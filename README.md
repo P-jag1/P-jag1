@@ -1,1 +1,1 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=P-jag1.P-jag1" />
+<img align="right" src="[https://visitor-badge.laobi.icu/badge?page_id=P-jag1.P-jag1](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FP-jag1&label=traverels&labelColor=%2337d67a&countColor=%23555555)https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FP-jag1&label=traverels&labelColor=%2337d67a&countColor=%23555555" />
