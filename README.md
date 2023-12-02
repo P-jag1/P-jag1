@@ -12,6 +12,6 @@
 <br/>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,python,tensorlow,eclipse,github,idea,ai,java,mysql,vscode" />
+    <img src="https://skillicons.dev/icons?i="" />
 </div>--->
 
