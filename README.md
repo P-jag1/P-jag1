@@ -8,9 +8,10 @@
 
 <hr/>
 
-<h2 align="center">⚙️ My Current Tools ⚙️</h2>
+<!--- <h2 align="center">⚙️ My Current Tools ⚙️</h2>
 <br/>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,python,tensorlow,eclipse,github,idea,ai,java,mysql,vscode" />
-</div>
+</div>--->
+
