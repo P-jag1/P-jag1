@@ -8,10 +8,15 @@
 
 <hr/>
 
-<!--- <h2 align="center">⚙️ My Current Tools ⚙️</h2>
-<br/>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i="" />
-</div>--->
+ 
+ ### I’m currently enrolled in:
+ 
+  [<img src="https://skillicons.dev/icons?i=java"/>](https://www.udemy.com/course/java-the-complete-java-developer-course/)
+  [<img src="https://skillicons.dev/icons?i=spring"/>](https://www.udemy.com/course/spring-hibernate-tutorial/)
+
+ ### Soon to be followed by: 
+ [<img src="https://skillicons.dev/icons?i=react"/>](https://www.udemy.com/course/full-stack-react-and-java-spring-boot-the-developer-guide/)
+
+ </div>
 
